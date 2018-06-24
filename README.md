@@ -1,5 +1,6 @@
 # Refactoring Views With Helpers Lab
 ss
+
 ## Objectives
 
 1. Review creating associated objects
